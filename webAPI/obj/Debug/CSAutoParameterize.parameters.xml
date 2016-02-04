@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BandEntities-Web.config Connection String" description="BandEntities Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:spkdbserver.database.windows.net,1433;Database=Band;User ID=stevenpkent@spkdbserver;Password=3IlmdSvm3;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\steven\\webAPI\\webAPI\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BandEntities']/@connectionString" />
+  </parameter>
+</parameters>

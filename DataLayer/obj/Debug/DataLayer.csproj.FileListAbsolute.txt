@@ -1,0 +1,12 @@
+C:\steven\webAPI\DataLayer\bin\Debug\DataLayer.dll.config
+C:\steven\webAPI\DataLayer\bin\Debug\DataLayer.dll
+C:\steven\webAPI\DataLayer\bin\Debug\DataLayer.pdb
+C:\steven\webAPI\DataLayer\bin\Debug\EntityFramework.dll
+C:\steven\webAPI\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\steven\webAPI\DataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\steven\webAPI\DataLayer\bin\Debug\EntityFramework.xml
+C:\steven\webAPI\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\steven\webAPI\DataLayer\bin\Debug\Newtonsoft.Json.xml
+C:\steven\webAPI\DataLayer\obj\Debug\DataLayer.dll
+C:\steven\webAPI\DataLayer\obj\Debug\DataLayer.pdb
+C:\steven\webAPI\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
