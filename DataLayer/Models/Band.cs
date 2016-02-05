@@ -11,6 +11,7 @@ namespace DataLayer.Models
         public string Name { get; set; }
         public short Rating { get; set; }
 
-        public virtual ICollection<Album> Albums { get; set; } //a band can have related albums
+        public virtual ICollection<Album> Albums { get; set; } //band has albums
+        public virtual ICollection<Song> Songs { get; set; } //band has songs
     }
 }
